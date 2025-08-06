@@ -1,1 +1,2 @@
-This is my repository
+Amazon Clone.
+
